@@ -1,29 +1,29 @@
 import PropTypes from 'prop-types'
-
+import Button from './Button'
 const Header = ({ title }) => {
   return (
-    <header>
-      <h2>Hello from Header components</h2>
-      <h2 style={{color:'red'}}>Hello from Header components</h2>
-      <h2 style={{color:'red', backgroundColor:'black'}}>Hello from Header components</h2>
-      <h2 style={headingStyle}>Hello from Header components</h2>
+    <header className='header'>
       <h1>{title}</h1>
+      <Button color='green' text='Add '/>
+      <Button color='red ' text='Close '/>
+      <Button color='black' text='Hello '/>
     </header>
   )
 }
 
 Header.defaultProps = {
-    title : 'Hello From default props',
+    title : 'Task Tracker',
 }
 
 Header.propTypes = {
     title : PropTypes.string.isRequired ,
 }
 
-const headingStyle = {
-    color:'white', 
-    backgroundColor:'blue' 
-}
+// Css in Jss
+// const headingStyle = {
+//     color:'white', 
+//     backgroundColor:'blue' 
+// }
 
 
 export default Header
