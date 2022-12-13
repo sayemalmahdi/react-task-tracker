@@ -1,6 +1,6 @@
-# All my README are at the Top
+# All MY `README` ARE AT THE TOP
 
-## After Cloneing this project
+## AFTER CLONEING THIS PROJECT
 
 In the project directory, you can run:
 
@@ -17,70 +17,71 @@ You may also see any lint errors in the console.
 ### `npm run server`
 Open [http://localhost:5000/tasks](http://localhost:5000/tasks) to view it in your browser.
 
-## Note : Sometimes it took a minute to run the server on the browser, So be patient 
+### `Note` : Sometimes it took a minute to run the server on the browser, So be patient 
 
-## 1. How to Clone this App (ReactTaskTracker) and impliment this app into your own local computer
+## How to Clone this App and impliment this app into your own local computer
 
-   -> First,\
-   -> Go to your xampp\
-   -> htdoces Folder then open git bash\
-   -> git config --list (Enter)(To see your all config like user.name,user.email)\
+   - First,
+   - Go to your xampp
+   - htdoces Folder then open git bash
+   - git config --list (Enter)(To see your all config like user.name,user.email)
 
-   If you want to change your user.name and user.email then follow the bellow steps otherwise you are good to go !\
-   To change User name :\
-   -> Run ( git config --global user.name "Your name" ) Enter.\
+   If you want to change your user.name and user.email then follow the bellow steps otherwise you are good to go !
+   To change User name :
+   - Run ( git config --global user.name "Your name" ) Enter.
 
-   To change User email :\
-   -> Run ( git config --global user.email "Your email" ) Enter.\
+   To change User email :
+   - Run ( git config --global user.email "Your email" ) Enter.
 
-   To see the changes you can Run\
-   -> git config --list (Enter)\
+   To see the changes you can Run
+   - git config --list (Enter)
 
-   Or to see the particular name or email\
-   For User Name :\
-   -> git config user.name (Enter)\
+   Or to see the particular name or email
+   For User Name :
+   - git config user.name (Enter)
 
-   For User Email :\
-   -> git config user.email (Enter)\
+   For User Email :
+   - git config user.email (Enter)
 
-   (DONE Git config)\
+   (DONE Git config)
 
-   If Done with git config then you are good to go for git clone\
+   ## If Done with git config then you are good to go for git clone
 
-   First,\
-   Go to the GitHub project you want to download then\
-   -> Click\
-   -> Clone or Download.(It will get copied)\
-   -> Now make a Folder where you want to clone this GitHub Project\
-   -> For Example (xampp->htdoces->make a new folder)\
-   -> then open the new folder and open git bash\
-   -> Run this command and paste the copy file from Github\
-   -> git clone (past here and then enter)\
-   -> It will clone the GitHub Repository (GitHub Project)\
-   -> It will automaticlly use the Same GitHub Repository Name\
+   `First` ,
+   Go to the GitHub project you want to download then
+   - Click
+   - Clone or Download. (It will get copied)
+   - Now make a Folder where you want to clone this GitHub Project
+   - For Example (xampp->htdoces->make a new folder)
+   - then open the new folder and open git bash
+   - Run this command and paste the copy file from Github
+   - git clone (past here and then enter)
+   - It will clone the GitHub Repository (GitHub Project)
+   - It will automaticlly use the Same GitHub Repository Name
 
-   -> If you want to change the name at a same time when it downloaded\
-   -> For this :\
-   -> Run\
-   -> git clone (paste here) and then give your New Name and then enter.\
-   -> Done with git clone\
+   - If you want to change the name at a same time when it downloaded
+   - For this :
+   - Run
+   - git clone (paste here) and then give your New Name and then enter.
+   - Done with git clone
 
-2. To run your React App :\
-   Go to your project Folder and open git bash then run 'npm install'.\
-   It will install node_modules in your local folder.\
-   Now run 'npm start'.\
-   It will Runs the App in the development mode\
-   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+## Now, To run your React App :
 
-   The page will reload when you make changes.\
-   You may also see any lint errors in the console.\
-   .\
-   .\
-   .\
-   .\
-   .\
+    - Go to your project Folder and open git bash then run 'npm install'
+    - It will install node_modules in your local folder
+    - Now run 'npm start'
+    - It will Runs the App in the development mode
+    - Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Custom React README From GitHub (Link in bellow) Start from here :\
+   - The page will reload when you make changes.
+   - You may also see any lint errors in the console.
+      .\
+      .\
+      .\
+      .\
+      .
+
+# Custom React README From GitHub (Link in bellow) Start from here :
 
 GitHub Link (Custom React README File) : https://github.com/facebook/create-react-app/blob/main/README.md
 # Create React App [![Build Status](https://dev.azure.com/facebook/create-react-app/_apis/build/status/facebook.create-react-app?branchName=main)](https://dev.azure.com/facebook/create-react-app/_build/latest?definitionId=1&branchName=main) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/blob/main/CONTRIBUTING.md)
